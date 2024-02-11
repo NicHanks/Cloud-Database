@@ -2,42 +2,26 @@
 
 The Goal of this project is to interact with a cloud database. That means inserting, modifying, deleting, and retrieving (or quering) in a data table. 
 
-
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of the software that you wrote and how it integrates with a Cloud Database. Describe how to use your program.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
+The software I've written has been done in swiftui ie ios app, and is uploaded to google firebase as well as git. 
 
 [Software Demo Video](https://youtu.be/3WK_yug789I)
 
 # Cloud Database
 
-{Describe the cloud database you are using.}
-
-{Describe the structure of the database that you created.}
+The cloud data base I am using is a tried and true google service. It is easily connected to google analytics which makes it easy to see and analysis the traffic and data of the project(s). 
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+I've been using xcode for the app/swiftui and as well as vs code for documentation and everything else. 
+I've been using the firebase library sdk so that it can more easily work with python and all of the other things. 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Firebase](https://firebase.google.com/)
+- [Docuentation:](https://www.swift.org/documentation/package-manager/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Item 1: Manipulate the data base a little bit more and fine a way to bring it over to android. (Find a way to make itcross-platform. )
